@@ -1926,6 +1926,10 @@ MonoBehaviour:
   layerMask:
     serializedVersion: 2
     m_Bits: 55
+  lineRenderers:
+  - {fileID: 834579975}
+  - {fileID: 1700839473}
+  - {fileID: 863605694}
 --- !u!195 &1899026543
 NavMeshAgent:
   m_ObjectHideFlags: 0
